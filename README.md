@@ -12,4 +12,4 @@ Have go intalled.
 -follow the clues to get the right answer. \
 -break the records guessing the number faster than others and write your name at the top of the tabel.
 
-Chanllenge from https://roadmap.sh/projects/github-user-activity
+Chanllenge from [https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/number-guessing-game)
