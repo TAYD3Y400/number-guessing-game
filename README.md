@@ -7,9 +7,9 @@ Have go intalled.
 
 ## Features
 
--select the difficult that you prefer.
--try to guess the right number.
--follow the clues to get the right answer.
--break the records guessing the number faster than others and write your name at the top of the tabel.
+-select the difficult that you prefer. \
+-try to guess the right number. \
+-follow the clues to get the right answer. \
+-break the records guessing the number faster than others and write your name at the top of the tabel. \
 
 Chanllenge from https://roadmap.sh/projects/github-user-activity
